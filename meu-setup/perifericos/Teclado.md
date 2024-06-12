@@ -1,0 +1,4 @@
+---
+author: "[[Nova]]"
+---
+O Anne Pro 2 é um teclado mecânico compacto e altamente personalizável, perfeito para gamers e entusiastas de tecnologia. Com seu layout de 60%, ele economiza espaço na sua mesa, sem sacrificar a funcionalidade. Ele vem com switches mecânicos de alta qualidade, que proporcionam uma experiência de digitação excelente e duradoura. Além disso, possui retroiluminação RGB, permitindo que você personalize as cores e efeitos de iluminação ao seu gosto. Com conectividade Bluetooth e USB, o Anne Pro 2 oferece flexibilidade para uso com múltiplos dispositivos. É o teclado ideal para quem busca desempenho e estilo! ⌨️🌈

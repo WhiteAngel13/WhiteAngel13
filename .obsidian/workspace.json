@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "468dba4aa4b0bcba",
+        "id": "13b18dc01736f686",
         "type": "tabs",
         "children": [
           {
-            "id": "0f68d20e690efd72",
+            "id": "96be9a168eb3870f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "21dd2cc49b3d39fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c3a972dbc195757",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f68d20e690efd72",
+  "active": "96be9a168eb3870f",
   "lastOpenFiles": [
-    "README.md"
+    "meu-setup/apps-instalados/Drive Booster.md",
+    "meu-setup/Apps Instalados na Minha Máquina.md",
+    "meu-setup/apps-instalados/Whatsapp.md",
+    "meu-setup/apps-instalados/WallpaperEngine.md",
+    "meu-setup/apps-instalados/Steam.md",
+    "meu-setup/apps-instalados/ObsidianMD.md",
+    "meu-setup/apps-instalados/GithubDesktop.md",
+    "meu-setup/apps-instalados/Discord.md",
+    "meu-setup/apps-instalados/Action!.md",
+    "README.md",
+    "meu-setup/Notebook - Nyx.md",
+    "meu-setup/perifericos/Teclado.md",
+    "meu-setup/perifericos/Mouse.md",
+    "meu-setup/perifericos/Microfone.md",
+    "atores/Nova.md",
+    "atores/White.md",
+    "tipos",
+    "meu-setup/perifericos",
+    "atores",
+    "meu-setup/apps-instalados",
+    "meu-setup"
   ]
 }

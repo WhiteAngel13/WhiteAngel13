@@ -1,0 +1,4 @@
+---
+author: "[[Nova]]"
+---
+O MX Master 3S é um mouse premium da Logitech, projetado para oferecer uma experiência de uso excepcional. Ele possui um design ergonômico que se ajusta perfeitamente à mão, tornando-o confortável para longas sessões de trabalho ou de jogo. Seus botões e roda de rolagem são personalizáveis, permitindo uma navegação rápida e eficiente. Além disso, ele conta com conectividade Bluetooth e USB, uma bateria de longa duração e suporte a múltiplos dispositivos, permitindo alternar facilmente entre diferentes computadores. Perfeito para quem busca precisão, conforto e produtividade! 🖱️✨

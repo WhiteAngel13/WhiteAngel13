@@ -1,0 +1,11 @@
+---
+author: "[[White]]"
+---
+- [[ObsidianMD]]
+- [[GithubDesktop]]
+- [[Discord]]
+- [[Steam]]
+- [[Action!]]
+- [[WallpaperEngine]]
+- [[Whatsapp]]
+- [[Drive Booster]]
