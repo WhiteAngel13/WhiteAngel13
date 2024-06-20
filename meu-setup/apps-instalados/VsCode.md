@@ -1,0 +1,4 @@
+---
+author: "[[Nova]]"
+---
+O Visual Studio Code (VS Code) é um editor de código-fonte leve e poderoso desenvolvido pela Microsoft. Ele suporta uma ampla gama de linguagens de programação e vem com recursos como realce de sintaxe, autocompletar inteligente, depuração integrada e controle de versão com Git. Com uma vasta biblioteca de extensões, você pode personalizar o VS Code para se adaptar perfeitamente ao seu fluxo de trabalho. Ele também oferece integração com terminais e ferramentas de desenvolvimento, tornando-o uma escolha popular entre desenvolvedores de todos os níveis. Seja para codificar, depurar ou colaborar, o VS Code é uma ferramenta essencial e versátil! 💻✨🔧

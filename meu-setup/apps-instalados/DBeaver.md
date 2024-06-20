@@ -1,0 +1,4 @@
+---
+author: "[[Nova]]"
+---
+O DBeaver é uma poderosa ferramenta de administração de banco de dados que suporta uma ampla gama de bancos de dados, como MySQL, PostgreSQL, Oracle, SQL Server e muitos outros. Ele oferece uma interface gráfica intuitiva que facilita a visualização, edição e gerenciamento de seus dados. Com recursos avançados como suporte a SQL, visualização de esquemas, e ferramentas de importação/exportação, o DBeaver é ideal tanto para desenvolvedores quanto para administradores de banco de dados. Além disso, é altamente personalizável e oferece uma versão gratuita e de código aberto, tornando-o acessível e versátil para diferentes necessidades. 🗄️💻🚀

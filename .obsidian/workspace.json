@@ -11,7 +11,7 @@
             "id": "96be9a168eb3870f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -135,13 +135,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "96be9a168eb3870f",
   "lastOpenFiles": [
-    "meu-setup/apps-instalados/Drive Booster.md",
+    "atores/Nova.md",
+    "diario/2024/06/20/Diário dia 20/06/2024.md",
+    "diario/2024/06/20/Diário dia 20/06",
+    "diario/2024/06/20/Diário dia 20",
+    "diario/2024/06/20",
+    "diario/2024/06",
+    "diario/2024",
+    "2024-06-20.md",
+    "diario",
     "meu-setup/Apps Instalados na Minha Máquina.md",
+    "meu-setup/Notebook - Nyx.md",
+    "meu-setup/apps-instalados/Drive Booster.md",
+    "meu-setup/apps-instalados/VsCode.md",
+    "meu-setup/apps-instalados/Google Drive.md",
+    "meu-setup/apps-instalados/Logi Options+.md",
+    "meu-setup/apps-instalados/DBeaver.md",
     "meu-setup/apps-instalados/Whatsapp.md",
     "meu-setup/apps-instalados/WallpaperEngine.md",
     "meu-setup/apps-instalados/Steam.md",
@@ -150,16 +165,13 @@
     "meu-setup/apps-instalados/Discord.md",
     "meu-setup/apps-instalados/Action!.md",
     "README.md",
-    "meu-setup/Notebook - Nyx.md",
     "meu-setup/perifericos/Teclado.md",
     "meu-setup/perifericos/Mouse.md",
     "meu-setup/perifericos/Microfone.md",
-    "atores/Nova.md",
     "atores/White.md",
     "tipos",
     "meu-setup/perifericos",
     "atores",
-    "meu-setup/apps-instalados",
-    "meu-setup"
+    "meu-setup/apps-instalados"
   ]
 }

@@ -1,0 +1,4 @@
+---
+author: "[[Nova]]"
+---
+O Google Drive é um serviço de armazenamento em nuvem da Google que permite salvar, compartilhar e acessar seus arquivos de qualquer lugar. Com ele, você pode armazenar documentos, fotos, vídeos e muito mais, tudo de forma segura e organizada. Além de oferecer um espaço de armazenamento generoso, o Google Drive facilita a colaboração, permitindo que você compartilhe arquivos e trabalhe em conjunto com outras pessoas em tempo real. Ele também se integra perfeitamente com outros serviços do Google, como Google Docs, Sheets e Slides, tornando a produtividade ainda mais fácil. É a solução ideal para quem precisa de acesso rápido e seguro aos seus arquivos, onde quer que esteja! ☁️📁💻

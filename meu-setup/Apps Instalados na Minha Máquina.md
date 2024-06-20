@@ -9,3 +9,7 @@ author: "[[White]]"
 - [[WallpaperEngine]]
 - [[Whatsapp]]
 - [[Drive Booster]]
+- [[VsCode]]
+- [[DBeaver]]
+- [[Google Drive]]
+- [[Logi Options+]]
